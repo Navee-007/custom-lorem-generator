@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2.5em;
+}
+.inputFields {
+  text-align: center;
+}
+#output {
+  border: 1px dashed rgb(0, 0, 255);
+  padding: 1em;
+  margin: 1em 8em;
+}
